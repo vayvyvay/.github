@@ -2,7 +2,7 @@
 
   <p>Kamuoyuna duyurulur: <strong>VayCasino</strong>'ya resmi olarak kayyum atanmış ve platformun tüm kontrolü yetkili mercilerce devralınmıştır. Sistem, kullanıcı güvenliğini korumak adına tamamen kontrol altına alınmıştır.</p>
 
-  <p>Endişe etmenize gerek yok — sizler için güvenilirliği kanıtlanmış, <strong>lisanslı</strong> ve <strong>sorunsuz</strong> alternatif platformlar mevcuttur. Aşağıda yer alan sitelere gönül rahatlığıyla erişebilir, güvenli bir şekilde oyun keyfine kaldığınız yerden devam edebilirsiniz:</p>
+  <p>Endişe etmenize gerek yok — sizler için güvenilirliği kanıtlanmış, <strong>lisanslı</strong> ve <strong>sorunsuz</strong> alternatif platformlar mevcuttur. Aşağıda yer alan sitelere gönül rahatlığıyla erişebilir, güvenli bir şekilde oyun keyfine kaldığınız yerden devam edebilirsiniz.:</p>
 
   <table>
     <thead>
